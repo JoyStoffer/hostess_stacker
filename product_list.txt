@@ -1,0 +1,152 @@
+Utility
+     Product                                                Price               Item Number
+     Large Utility Tote                                     $35                 3121
+     Deluxe Utility Tote                                    $50                 4441
+     Top-A-Tote                                             $10                 4018
+     Deluxe Top-A-Tote                                      $10                 8604
+     Pocket-A-Tote                                          $10                 4590
+     Zip-Top Organizing Utility Tote                        $35                 4451
+     Deluxe Organizing Utility Tote                         $48                 8800
+     All-In Organizer                                       $20                 8495
+     Stand Tall Bin                                         $50                 4947
+     Essential Storage Tote                                 $28                 4446
+     Tall Organizing Tote                                   $35                 8275
+     Littles Carry-All Caddy                                $14                 3401
+     Gives Littles Carry-All Caddy                          $14                 8330
+     Double Duty                                            $25                 4787
+
+Thermals
+     Product                                                Price               Item Number
+     Thermal Tote                                           $18                 3000
+     Lunch Break Thermal                                    $25                 4182
+     Going Places Thermal                                   $25                 8618
+     Go-To Thermal                                          $18                 8542
+     Around The Clock Thermal                               $30                 4847
+     Picnic Thermal Tote                                    $35                 3034
+     Tote-Ally Thermal                                      $48                 8257
+     Quick Cinch Thermal                                    $38                 8805
+     Fresh Market Thermal                                   $50                 4181
+     Cool Clip Thermal Pouch                                $15                 8256
+     Perfect Party Set                                      $60                 4199
+
+Storage & Organization
+     Product                                                Price               Item Number
+     Oh-Snap Bin                                            $10                 4598
+     Your Way Bin                                           $20                 8344
+     Hang-It Pocket Organizer                               $35                 8631
+     Fold N'File                                            $25                 3890
+     Mini Catch-All Bin                                     $18                 8809
+     Catch-All Bin                                          $38                 8244
+     Mini Storage Bin                                       $22                 8639
+     Your Way Cube Lid                                      $10                 4242
+     Your Way Cube                                          $35                 4119
+     Your Way Rectangle Lid                                 $10                 4243
+     Your Way Rectangle                                     $25                 4130
+     Your Way Rectangle Basket                              $40                 4151
+          Your Way Rectangle Liner                               $15                 4153
+
+Crossbody & Shoulder Bags
+     Product                                                Price               Item Number
+     Midway Hobo                                            $78                 8506
+     Cafe Crossbody                                         $68                 8632
+     Retro Metro Bag                                        $58                 8770
+     Organizing Shoulder Bag                                $48                 3165
+     Demi Day Bag                                           $38                 8661
+     Clear As Day Duo                                       $38                 8682
+
+Backpacks
+
+     Product                                                Price               Item Number
+     Sling-Back Bag                                         $48                 4538
+     Going My Way Backpack                                  $55                 8619
+     Lil'Go Backpack                                        $35                 8662
+     Cinch Sac                                              $20                 3039
+
+Totes
+     Product                                                Price               Item Number
+     Retro Metro Fold-Over                                  $68                 8897
+     Around Town Tote                                       $78                 8309
+     Cindy Tote                                             $72                 3057
+     Little Dreamer                                         $48                 8989
+     City Chic Tote                                         $68                 8951
+
+Travel Bags
+     Product                                                Price               Item Number
+     Retro Metro Weekender                                  $80                 8780
+     All Packed Duffle                                      $80                 8319
+     Fold-Over Weekender                                    $80                 4990
+
+Wallets & Accessories
+
+     Product                                                Price               Item Number
+     Tons of Funds                                          $58                 8139
+     Perfect Cents Wallet                                   $28                 4808
+     Easy Going Wristlet                                    $30                 8635
+     All About the Benjamins                                $48                 8021
+     Wristlet Strap                                         $8                  8033
+     Mini Zipper Pouch                                      $12                 3013
+     Zipper Pouch                                           $15                 3045
+     Savvy Sleeve                                           $35                 8889
+     Rubie Mini                                             $22                 8404
+     Swap-It Pocket                                         $25                 8444
+     Super Swap-It Pocket                                   $35                 8700
+     Glamour Case                                           $25                 6121
+     Hanging Traveler Case                                  $35                 8161
+     Cute Case                                              $10                 8140
+     Manicure Nail File                                     $3                  8684
+     Avenue Scarf                                           $28                 8331
+     Hang-It-Up Key Fob                                     $5                  4215
+     Celebrate Card Set                                     $31                 3794
+     Inspirational Card Set                                 $15                 8579
+
+Jewelry
+     Product                                                Price               Item Number
+     Delicate Dream Necklace                                $28                 8827
+     Endless Dreamer Necklace                               $38                 8950
+     Dream Catcher Necklace                                 $30                 6148
+     24" Ball Chain                                         $5                  6153
+     40" Ball Chain                                         $8                  8200
+     24" Dainty Rolo Chain                                  $14                 8197
+     36" Dainty Rolo Chain                                  $18                 8591
+     2" Necklace Extender                                   $5                  8231
+     Luxe Loop Dangles                                      $25                 8848
+     Adore Bracelet                                         $25                 8688
+     Spacer Bead                                            $5                  6169
+     Beaded Charm Bracelet                                  $25                 8687
+     Cherish Bracelet                                       $28                 6154
+     Leather Icon Bracelet                                  $30                 8811
+     Just Write Bracelet                                    $35                 8837
+     Birthstone Dot Charms                                  $10                 6179
+     Round Initial Charm                                    $15                 8538
+     Wax Seal Charm                                         $15                 6174
+     Keepsake Charm                                         $15                 8514
+
+Home Decor
+     Product                                                Price               Item Number
+     Keepsake Tray                                          $12                 8598
+     Sweet Spaces Decor                                     $35                 8958
+     Close To Home Tray                                     $58                 8871
+     Treasure Tin                                           $30                 8939
+     Statement Canvas Pillow Cover 18" x 18"                $35                 8112
+     Statement Canvas Pillow Cover w/Insert 18" x 18"       $50                 8113
+     Statement Canvas Pillow Cover 24" x 24"                $45                 8303
+     Statement Canvas Pillow Cover w/Insert 24" x 24"       $70                 8401
+     Statement Wall Art 12" x 12"                           $60                 8537
+     Statement Wall Art 20" x 20"                           $110                8594
+
+Personalization
+     Product                                                Price               Item Number
+     Text                                                   $8
+     Monograms                                              $8
+     Large Monograms                                        $10
+     Icon-Its                                               $17
+
+Hostess Exclusives
+     Product                                                Price               Item Number
+     Well Suited Garment Tote                               $25                 8791
+     Away We Go Roller                                      $55                 8159
+     Tote N'Chill Trio                                      $35                 8925
+     Mystery Bundle                                         $25                 2692
+
+
+end

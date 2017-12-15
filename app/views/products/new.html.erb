@@ -1,0 +1,120 @@
+<h4 class="heading">Hi <%= @user.first_name.capitalize %></h4>
+
+<!-- add patterns to products -->
+<div class="row">
+    <div class="col-sm-2"></div>
+    <div class="col-sm-8">
+         <h4 class="heading">Add Product to Pattern</h4>
+        <form class="text-capitalize" action="<%= create_productdesc_path %>" method="post">
+          <input type="hidden" name="authenticity_token" value="<%= form_authenticity_token%>"/>
+          <!-- Product and Pattern Name -->
+
+          <div class="form-group">
+               <select name="product_desc[product_id]">
+                    <% @product.each do |prod| %>
+                    <option class="text-capitalize" value="<%= prod.id %>"><%= prod.name %></option>
+                    <% end %>
+               </select>
+          </div>
+          <div class="form-group">
+               <select name="product_desc[pattern_id]">
+                    <% @pattern.each do |pat| %>
+                    <option class="text-capitalize" value="<%= pat.id %>"><%= pat.name %></option>
+                    <% end %>
+               </select>
+          </div>
+
+          <!-- submit button  -->
+          <div class="form-group">
+            <button class='btn btn-success' type="submit">Add Product & Pattern</button>
+
+          </div>
+        </form>
+  </div>
+  <div class="col-sm-2"></div>
+<!-- add category -->
+<div class="row">
+    <div class="col-sm-2"></div>
+    <div class="col-sm-8">
+         <h4 class="heading">Add Category</h4>
+        <form class="text-capitalize" action="<%= create_category_path %>" method="post">
+          <input type="hidden" name="authenticity_token" value="<%= form_authenticity_token%>"/>
+          <!-- Category Name -->
+          <div class="form-group">
+              <input type="text" name="category[name]"class="form-control" id="name" placeholder="Category Name"/>
+          </div>
+          <!-- submit button  -->
+          <div class="form-group">
+            <button class='btn btn-success' type="submit">Add Category</button>
+
+          </div>
+        </form>
+  </div>
+  <div class="col-sm-2">
+
+  </div>
+
+</div>
+<!-- add pattern -->
+<div class="row">
+    <div class="col-sm-2"></div>
+    <div class="col-sm-8">
+         <h4 class="heading">Add Pattern</h4>
+        <form class="text-capitalize" action="<%= create_pattern_path %>" method="post">
+          <input type="hidden" name="authenticity_token" value="<%= form_authenticity_token%>"/>
+          <!-- Pattern Name -->
+          <div class="form-group">
+              <input type="text" name="pattern[name]"class="form-control" id="name" placeholder="Pattern Name"/>
+          </div>
+          <!-- submit button  -->
+          <div class="form-group">
+            <button class='btn btn-success' type="submit">Add Pattern</button>
+
+          </div>
+        </form>
+  </div>
+  <div class="col-sm-2">
+
+  </div>
+
+</div>
+<!-- add product -->
+<div class="row">
+    <div class="col-sm-2"></div>
+    <div class="col-sm-8">
+         <h4 class="heading">Add Product</h4>
+        <form class="text-capitalize" action="<%= create_product_path %>" method="post">
+          <input type="hidden" name="authenticity_token" value="<%= form_authenticity_token%>"/>
+          <!-- Product Name -->
+          <div class="form-group">
+              <input type="text" name="product[name]"class="form-control" id="name" placeholder="Product Name"/>
+          </div>
+          <div class="form-group">
+              <input type="text" name="product[price]"class="form-control" id="name" placeholder="Price"/>
+          </div>
+          <div class="form-group">
+              <input type="text" name="product[item_number]"class="form-control" id="name" placeholder="Item Number"/>
+          </div>
+          <div class="form-group">
+                   <select name="product[category_id]">
+                        <% @category.each do |cat| %>
+                              <option class="text-capitalize" value="<%= cat.id %>"><%= cat.name %></option>
+                        <% end %>
+                   </select>
+          </div>
+
+          <!-- submit button  -->
+          <div class="form-group">
+            <button class='btn btn-success' type="submit">Add Product</button>
+
+          </div>
+        </form>
+  </div>
+  <div class="col-sm-2">
+
+  </div>
+
+</div>
+
+
+</div>

@@ -1,0 +1,2 @@
+module ProductDescsHelper
+end

@@ -1,0 +1,21 @@
+basic functionality-
+
+     from $600 hostess party
+          $100 hostess credit
+          2 half-price items
+          2 hostess exclusives available
+          Hostess Special available to hostess
+
+Sub  price of items, = amount remaining to spend
+     if negative, change to amount owed.  if item removed, add back the amount taken away.
+
+
+
+first load
+
+     one item of everything with price
+
+     2nd round multiple patterns
+
+
+what it needs to do
